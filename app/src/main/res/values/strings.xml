@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cecd</string>
+    <string name ="ecd">ECD \nResources</string>
+    <string name ="parent">Parent \nResources</string>
+    <string name ="ecdvideo">ECD \nVideos</string>
+    <string name ="ecdactivity">ECD \nActivities</string>
+    <string name ="ecdworksheet">ECD \nWorksheets</string>
+</resources>
